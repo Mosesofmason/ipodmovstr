@@ -1,2 +1,2 @@
-*.html linguist-documentation
-*.htm linguist-documentatio
+*.htm* linguist-documentation
+
